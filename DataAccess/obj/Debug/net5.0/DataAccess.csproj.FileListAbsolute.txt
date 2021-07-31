@@ -1,0 +1,17 @@
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\Etities.dll
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Osman\Project\Web\Uns\DataAccess\bin\Debug\net5.0\Etities.pdb
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Osman\Project\Web\Uns\DataAccess\obj\Debug\net5.0\DataAccess.pdb

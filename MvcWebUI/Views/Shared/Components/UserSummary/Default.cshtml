@@ -1,0 +1,13 @@
+﻿@model MvcWebUI.Models.UserDatailsViewModel
+
+
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+    @if (!string.IsNullOrEmpty(Model.UserName))
+    {
+        <a class="dropdown-item">
+            Wellcome @Model.UserName
+        </a>
+        <a asp-controller="Account" asp-action="LogOff"> Log Off</a>
+    }
+
+</div>

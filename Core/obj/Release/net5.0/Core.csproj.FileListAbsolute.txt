@@ -1,0 +1,12 @@
+C:\Osman\Project\Web\Uns\Core\bin\Release\net5.0\Core.deps.json
+C:\Osman\Project\Web\Uns\Core\bin\Release\net5.0\Core.dll
+C:\Osman\Project\Web\Uns\Core\bin\Release\net5.0\ref\Core.dll
+C:\Osman\Project\Web\Uns\Core\bin\Release\net5.0\Core.pdb
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.csprojAssemblyReference.cache
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.AssemblyInfoInputs.cache
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.AssemblyInfo.cs
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.dll
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\ref\Core.dll
+C:\Osman\Project\Web\Uns\Core\obj\Release\net5.0\Core.pdb
